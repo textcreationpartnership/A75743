@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain-man's devotion. Part. I. Being a method of daily devotion. Fitted to the meanest capacities. By the author of the Plain-mans reply to the Catholic missionaries</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75743</idno>
+            <idno type="STC">Wing A4035B</idno>
+            <idno type="STC">ESTC R230836</idno>
+            <idno type="EEBO-CITATION">99896564</idno>
+            <idno type="PROQUEST">99896564</idno>
+            <idno type="VID">134549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2416:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain-man's devotion. Part. I. Being a method of daily devotion. Fitted to the meanest capacities. By the author of the Plain-mans reply to the Catholic missionaries</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.B. for R. Wild at the Bible and Crown on Ludgate-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author of The plain-mans reply to the Catholic missionaries = William Assheton.--Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional exercises --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:134549:1"/>
+            <pb facs="tcp:134549:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:134549:2"/>
+            <p>Imprimatur.</p>
+            <p>
+               <hi>Libellus cui Titulus</hi> [The Plain-mans Devotion Part. I.</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 5. 1687.</date>
+               </dateline>
+               <signed>H. Maurice.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:134549:2" rendition="simple:additions"/>
+            <p>THE <hi>Plain-Man's</hi> DEVOTION.</p>
+            <p>PART. I.</p>
+            <p>Being a METHOD OF <hi>Daily Devotion.</hi>
+            </p>
+            <p>Fitted to the meaneſt Capacities.</p>
+            <p>By the Author of the <hi>Plain-mans Reply to the Catholic Miſſionaries.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>T. B.</hi> for <hi>R. Wild</hi> at the <hi>Bible</hi> and <hi>Crown</hi> on <hi>Ludgate-Hill. 1688. Price</hi> 2d.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:134549:3"/>
+            <pb facs="tcp:134549:3"/>
+            <head>THE <hi>Country-Parſon</hi> TO THE PLAIN-MAN.</head>
+            <p>HAving been inſtru<g ref="char:EOLhyphen"/>mental, through God's Bleſſing, to fix your Belief, I ſhall now proceed, by the ſame gracious aſſi<g ref="char:EOLhyphen"/>ſtance, to direct your Pra<g ref="char:EOLhyphen"/>ctice. And do very chear<g ref="char:EOLhyphen"/>fully comply with an invi<g ref="char:EOLhyphen"/>tation to ſo uſeful a Task, as being fully convinced; That it is much more pro<g ref="char:EOLhyphen"/>fitable, both for me and
+<pb facs="tcp:134549:4"/> my Pariſh, to ſpend my time in Devotion and pra<g ref="char:EOLhyphen"/>ctical Diſcourſes, then in theſe unpleaſing Diſ<g ref="char:EOLhyphen"/>putes.</p>
+            <p>Now the more effectu<g ref="char:EOLhyphen"/>ally to perſwade you to a holy and Religious Life, pray-ſeriouſly conſider this ſhort Admonition.</p>
+            <p>You muſt not always be in this world; but in a very little time (perhaps before to Morrow-morn<g ref="char:EOLhyphen"/>ing) you may be removed into the next. And then you will unalterably be fixt in an Eternal State, either of Happineſs or Miſery.</p>
+            <p>Now as in all other Ca<g ref="char:EOLhyphen"/>ſes
+<pb facs="tcp:134549:4"/> prudence doth direct you to provide for the worſt, ſo chiefly it ought in the concern of your Soul. Wherein if you do miſcar<g ref="char:EOLhyphen"/>ry, the miſtake will be ve<g ref="char:EOLhyphen"/>ry fatal: you are utterly ruined,</p>
+            <p>Let me therefore beg of you (and I do it <hi>in Chriſt's ſtead)</hi> immedi<g ref="char:EOLhyphen"/>ately to break off your Sins by Repentance. And re<g ref="char:EOLhyphen"/>ſolve without delay to make your Peace with God, <hi>before you go hence and be no more ſeen.</hi>
+            </p>
+            <p>To aſſiſt you in this ne<g ref="char:EOLhyphen"/>ceſſary work, is the chari<g ref="char:EOLhyphen"/>table
+<pb facs="tcp:134549:5"/> Deſign of theſe little Papers. Wherein I ſhall in the most familiar manner even lead you by the hand; and ſhall ſhew you ſtep by ſtep what I would have you to do. And if with an honest and ſincere heart, you will obſerve theſe following Directi<g ref="char:EOLhyphen"/>ons; I truſt we ſhall com<g ref="char:EOLhyphen"/>fortably meet <hi>at the Day of the Lord Jeſus.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:134549:5"/>
+            <head>A METHOD OF <hi>Daily Devotion.</hi>
+            </head>
+            <p>IN the Morning when you firſt awake, offer up your firſt Thoughts and Words to God, ſaying,</p>
+            <p>
+               <hi>Glory be to God the Father, who hath made me and all the world.</hi>
+            </p>
+            <p>
+               <hi>Glory be to God the Son, who hath redeemed me and all Man<g ref="char:EOLhyphen"/>kind.</hi>
+            </p>
+            <p>
+               <hi>Glory be to God the Holy Ghoſt,
+<pb n="2" facs="tcp:134549:6"/> who ſanctifieth me, and all the elect people of God.</hi>
+            </p>
+            <p>
+               <hi>O holy, bleſſed, and glorious Trinity, three Perſons and one God: have mercy upon me a miſerable Sinner:</hi>
+            </p>
+            <p>As you are riſing, ſay,</p>
+            <p>
+               <hi>I laid me down and ſlept, and roſe up again, for the Lord ſu<g ref="char:EOLhyphen"/>ſtained me.</hi> [Pſal. 3. 5.]</p>
+            <p>Whilſt you are puting on your Cloaths, conſider what you are to do that Day. And if any Company or Buſineſs which you are to be engaged in, ſhall be likely to tempt or to draw you to any Sin; As to <hi>Intemperance</hi> in Meats or Drink; to <hi>Luſt, An<g ref="char:EOLhyphen"/>ger,</hi> &amp;c. then arm your ſelf with reſolutions againſt it, and ſay,</p>
+            <pb n="3" facs="tcp:134549:6"/>
+            <p>
+               <hi>Lord, lead me not into Temp<g ref="char:EOLhyphen"/>tation, but deliver me from Evil.</hi>
+            </p>
+            <p>
+               <hi>I do renounce the Devil and all his works; the Pomps and Vanity of this wicked World, and all the ſinful Luſts of the Fleſh. I believe all the Articles of the Chriſtian Faith. And I will keep Gods holy will and Command<g ref="char:EOLhyphen"/>ments, and walk in the ſame all the Days of my Life.</hi>
+            </p>
+            <p>
+               <hi>All this, O my God, I am bound by the vow of my Bap<g ref="char:EOLhyphen"/>tiſm to believe and do; and by thy help ſo I will.</hi>
+            </p>
+            <p>As ſoon as you are dreſt, kneel down by your Bed-ſide; and with great Reverence and Devotion, as in Gods preſence, ſay your Prayers thus; or in the like man<g ref="char:EOLhyphen"/>ner.</p>
+            <q>
+               <pb n="4" facs="tcp:134549:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>Morning Prayer for a Private Perſon.</head>
+                        <p>I Bleſs and Praiſe thy holy Name, moſt gracious God, for all thy mercies beſtowed upon me, from the time of my Birth to this preſent mo<g ref="char:EOLhyphen"/>ment. I thank thee for the Preſervation of the laſt Night; and for the ſweet ſleep and refreſhment which I have enjoyed. O pardon and forgive me my manifold Sins [par<g ref="char:EOLhyphen"/>ticularly—<hi>here mention the greateſt of thy Sins.</hi>] I am truly ſorry that I have offended thee; and do fully reſolve to do ſo no more Aſſiſt me this day in the works of my Calling; and proſper all my lawful
+<pb n="5" facs="tcp:134549:7"/> undertakings. Give me Grace to be true and juſt in all my dealings; and to do unto all men, as I would they ſhould do unto me. Help me to be contented with my preſent Condition. To be diligent in all my Duties. Watchful againſt all Temptations. So humble and modeſt, chaſt and temperate, and ſo mo<g ref="char:EOLhyphen"/>derate in my moſt lawful en<g ref="char:EOLhyphen"/>joyments, that they never be<g ref="char:EOLhyphen"/>come a ſnare to me. Lord, I live here in a troubleſom ſinful world: But do thou take me into thy Prote<g ref="char:EOLhyphen"/>ction, and then I am ſafe, Guide me by thy counſel here, and at laſt bring me to thy Glory. And this I humbly beg for the ſake of Jeſus Chriſt, my dear Lord
+<pb n="6" facs="tcp:134549:8"/> and only Saviour, who hath taught me thus to Pray,</p>
+                        <closer>
+                           <hi>Our Father,</hi> &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After Break-faſt (at which the greateſt part of the Houſhold are ſuppoſed to be preſent) let the Maſter of the Family, or ſome other by his appointment, diſtinctly and devoutly read this, or the like, following Prayer.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>Morning Prayer for a Family.</head>
+                        <p>O Holy Lord God Al<g ref="char:EOLhyphen"/>mighty; before whom all Knees do bend, and to whom all Creatures in Hea<g ref="char:EOLhyphen"/>ven and Earth do bow and obey. Behold here poor, im<g ref="char:EOLhyphen"/>potent, guilty Creatures hum<g ref="char:EOLhyphen"/>bly proſtrate before thy Throne: Adoring thy Great<g ref="char:EOLhyphen"/>neſs;
+<pb n="7" facs="tcp:134549:8"/> and admiring thy Goodneſs: and deſiring no<g ref="char:EOLhyphen"/>thing more than faithfully to ſerve thee all the days of our Lives. For thou only art Holy; Thou only art the Lord: And Glory be to thee O Lord moſt High.</p>
+                        <p>Praiſed be thy Name O Lord, from the riſing up of the Sun to the going down of the ſame. Thou art our God, and we will thank thee: Thou art our God, and we will praiſe thee. We laid us down and ſlept, and roſe up again, for the Lord ſuſtained us. Thou haſt light<g ref="char:EOLhyphen"/>ned our Eyes, that we ſlept not in Death. Thou haſt delivered us from the Ter<g ref="char:EOLhyphen"/>rors of the Night, and from the Evil that walketh in
+<pb n="8" facs="tcp:134549:9"/> Darkneſs. From Fire and Robbery, and all other ſad Accidents. Thou renoweſt thy Mercies to us every Morning; and has given us one Day more, to ſerve thee and call upon thy Name.</p>
+                        <p>O Lord our heavenly Fa<g ref="char:EOLhyphen"/>ther, Almighty and everlaſt<g ref="char:EOLhyphen"/>ing God, who haſt ſafely brought us to the beginning of this Day; defend us in the ſame by thy mighty Power; and grant that this Day we fall into no ſin, neither run into any kind of Danger; but that all our doings may be ordered by thy Gover<g ref="char:EOLhyphen"/>nance, to do always that is righteous in thy ſight, through Jeſus Chriſt our Lord.</p>
+                        <p>And we beg thy Bleſſing for all Man-kind. More
+<pb n="9" facs="tcp:134549:9"/> particularly for theſe King<g ref="char:EOLhyphen"/>doms in which we live. Bleſs, ſave and defend the King, and all the Royal Family, with all Orders of men amongſt us, both in Church and State. Bleſs all our Friends and kind Relations. Thoſe that have done us any Good; Lord reward them. Thoſe that have done or wiſht us any Evil; Father forgive them.</p>
+                        <p>Comfort all thoſe who are any ways afflicted or diſtreſ<g ref="char:EOLhyphen"/>ſed in mind, body, or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Give them patience <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> their ſufferings, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> iſſue out of all their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fflicti<g ref="char:EOLhyphen"/>ons.</p>
+                        <p>Theſe mercies, and what<g ref="char:EOLhyphen"/>ever elſe thou knoweſt to be
+<pb n="10" facs="tcp:134549:10"/> moſt convenient for us, we do humbly beg, in the name, and for the ſake of Chriſt Jeſus, our only Mediator and Inter<g ref="char:EOLhyphen"/>ceſſor; who hath taught us thus to Pray,</p>
+                        <closer>
+                           <hi>Our Father,</hi> &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Prayers being finiſhed; as you go firſt out of your Doors, or as you return into the Houſe, ſay,</p>
+            <q>Lord, Bleſs my going out and my coming in, from this time forth for evermore. <bibl>[Pſal. 121. 8.]</bibl>
+            </q>
+            <p>When you harneſs your Hor<g ref="char:EOLhyphen"/>ſes; or take the Plough into your hand; or begin any other work, ſay,</p>
+            <q>Proſper thou the work of my hands, O Lord, O proſper thou my handy-work. <bibl>[Pſalm. 90. 17.]</bibl>
+            </q>
+            <pb n="11" facs="tcp:134549:10"/>
+            <p>HAving thus commended your ſelves to God, you are now under his care and protection. And may com<g ref="char:EOLhyphen"/>fortably expect his Bleſſing upon you and yours. Which, he for his part, will moſt certainly grant; provided, that you lead the reſt of the Day according to this begin<g ref="char:EOLhyphen"/>ning. In order to which, be very careful <hi>Firſt</hi> of your</p>
+            <div type="part">
+               <head>Thoughts.</head>
+               <p>IF any idle, wandring and impertinent Thoughts; any wanton, luſtful, and laſ<g ref="char:EOLhyphen"/>civious Thoughts; any en<g ref="char:EOLhyphen"/>vious, murthering, and ma<g ref="char:EOLhyphen"/>licious Thoughts ſhall a<g ref="char:EOLhyphen"/>riſe in your hearts; then pre<g ref="char:EOLhyphen"/>ſently
+<pb n="12" facs="tcp:134549:11"/> reject them, by thinking upon ſomething elſe, and ſay,</p>
+               <p>
+                  <hi>Lord cleanſe the Thoughts of my heart by the inſpiration of thy holy Spirit.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Take heed of your</p>
+            </div>
+            <div type="part">
+               <head>Words.</head>
+               <p n="1">1. BEware of horrid <hi>Curſing</hi> and profane <hi>Swear<g ref="char:EOLhyphen"/>ing.</hi> And do not think to excuſe ſuch extravagance by ſaying; <hi>I was provoked;</hi> or <hi>I am naturally Paſſionate: It is my Temper, and I cannot help it.</hi> Which in plain Engliſh is this. <hi>I have a mind to curſe and to ſwear, and I will do it.</hi> Know therefore that God hath gi<g ref="char:EOLhyphen"/>ven you <hi>Reaſon,</hi> and the <hi>Grace</hi> of his Holy Spirit, whereby to curb your natures, and
+<pb n="13" facs="tcp:134549:11"/> reſtrain your vicious Inclina<g ref="char:EOLhyphen"/>tions, both in this and every other Inſtance.</p>
+               <p n="2">2. To be noted for <hi>Lying</hi> (beſides the Sin and Guilt in reſpect of God) will make you uſeleſs to the world. No Body will truſt you. Or, if they can help it, will ever meddle with you. I adviſe you therefore (<hi>Children</hi> and <hi>Servants</hi>) when you have com<g ref="char:EOLhyphen"/>mitted a fault, do not dare to excuſe it with a <hi>Lye;</hi> but confefs it freely. And then both your <hi>Parents</hi> and <hi>Maſters,</hi> if they are prudent Perſons, will more chearfully forgive you.</p>
+               <p n="3">3. Let no filthy Commu<g ref="char:EOLhyphen"/>nication proceed out of your
+<pb n="14" facs="tcp:134549:12"/> Mouth. Avoid all obſcene laſci<g ref="char:EOLhyphen"/>vious Diſcourſe as you would the Plague; for 'tis as infecti<g ref="char:EOLhyphen"/>ous, and kindles ſuch a fire of Luſt, as without repentance will certainly bring you to the fire of Hell.</p>
+               <p n="4">4. Avoid that pratling Goſſipping humour of talk<g ref="char:EOLhyphen"/>ing about other mens matters, and cenſuring their Affairs. But <hi>ſtudy to be quiet, and to do your own Buſineſs.</hi> And if Re<g ref="char:EOLhyphen"/>ligion will not reſtrain you; then be admoniſhed in point of prudence, that <hi>Silence is ſoon anſwered.</hi>
+               </p>
+               <pb n="15" facs="tcp:134549:12"/>
+               <p>For the better regulating of your</p>
+            </div>
+            <div type="part">
+               <head>Actions.</head>
+               <p>OBſerve that Golden Rule of our Bleſſed Saviour; <hi>Whatſoever you would that men ſhould do to you, do ye even ſo to them.</hi> Mat. 7. 12. Let this teach you to be true and juſt in all your dealings. To be very punctual and exact in all your Promiſes and Bargains. <hi>Not to go beyond or defraud your Brother in any matter, for the Lord is the avenger of all ſuch.</hi> 1 Theſſ. 4. 6.</p>
+               <p>2. Take heed of exceſſive <hi>Drinking;</hi> which too often con<g ref="char:EOLhyphen"/>cludes your Bargains. And if your head ſhall be ſtronger
+<pb n="16" facs="tcp:134549:13"/> than your Neighbours, then to abuſe his weakneſs, and to impoſe upon him under ſuch Circumſtances, is a very baſe and diſhoneſt pra<g ref="char:EOLhyphen"/>ctice.</p>
+               <p>3. Beware of immoderate <hi>Anger;</hi> or (as you phraſe it) <hi>of being in Paſſion:</hi> the conſe<g ref="char:EOLhyphen"/>quents of which are many times diſmal and amazing. For you may do that in the height of a Provocation which, if it doth not cut you off in the midſt of your Days, will bring your gray hairs with ſorrow to the Grave. When therefore your <hi>Children</hi> or your <hi>Servants</hi> have com<g ref="char:EOLhyphen"/>mitted a fault, be not either too raſh, or too ſevere in your Cenſures; but treat
+<pb n="17" facs="tcp:134549:13"/> them with Reaſon, and argue the Caſe calmly with them. And if after fair Admonitions they will not regard you; then it will be prudent to diſmiſs ſuch Servants, and correct your Children.</p>
+               <p>4. Let young Perſons be admoniſhed to <hi>flee youthful Luſts:</hi> and to take heed of all filthy polluting practices<g ref="char:punc">▪</g> which are very diſpleaſing to a pure and holy God. Re<g ref="char:EOLhyphen"/>member your Baptiſmal vow In which you did <hi>renounce the carnal deſires of the fleſh, ſo that you will not follow nor be led by them.</hi> Where obſerve. You did not promiſe never to <hi>have</hi> thoſe Deſires (for whilſt you are young and healthful it cannot be otherwiſe) but you
+<pb n="18" facs="tcp:134549:14"/> only promiſed, <hi>not to follow nor be led by them,</hi> i. e. not to gratify thoſe Deſires and In<g ref="char:EOLhyphen"/>clinations in any unlawful way, not to be led and promp<g ref="char:EOLhyphen"/>ted by them to commit any Sin; or to do any thing which God hath forbidden. If there<g ref="char:EOLhyphen"/>fore; after <hi>Prayers, Faſt<g ref="char:EOLhyphen"/>ing, hard Labour,</hi> and other Methods of <hi>Mortification,</hi> you are ſtill troubleſom and un<g ref="char:EOLhyphen"/>eaſy; then make uſe of the laſt Remedy; which becomes a Duty to thoſe, who cannot live innocently without it I ſhall commend it to you in St. <hi>Pauls</hi> words. <hi>If they can not contain, let them Marry for it is better to Marry than t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> burn.</hi> 1 Cor. 7. 9. <hi>Marriage is honourable in all, and the Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> undefiled: but Whoremonger
+<pb n="19" facs="tcp:134549:14"/> and Adulterers God will judg.</hi> Heb. 13. 4.</p>
+               <p>Being tempted to unclean<g ref="char:EOLhyphen"/>neſs, or any other Sin; lift up your heart unto God, and ſay,</p>
+               <p>
+                  <hi>O Thou who art faithful, do not ſuffer me to be tempted above that I am able; but with the Temptation alſo make a way to eſcape, that I may be able to bear it.</hi> 1 Cor. 10. 13.</p>
+               <p>5. <hi>Take heed and beware of COVETO<g ref="char:V">Ʋ</g>SNESS.</hi> Luke 12. 15. <hi>For the love of Money is the root of all evil: which while ſome coveted after they have erred from the Faith, and pierced themſelves through with many Sorrows.</hi> 1 Tim. 6. 10. <hi>Be not decei<g ref="char:EOLhyphen"/>ved—nor Theives, nor COVE<g ref="char:EOLhyphen"/>TO<g ref="char:V">Ʋ</g>S</hi>
+                  <pb n="20" facs="tcp:134549:15"/> —<hi>nor Extortioners ſhall inherit the Kingdom of God<g ref="char:punc">▪</g>
+                  </hi> 1 Cor. 6. 9, 10.</p>
+               <p>From theſe and many o<g ref="char:EOLhyphen"/>ther places of Scripture, you are plainly convinced; that Covetouſneſs is a moſt per<g ref="char:EOLhyphen"/>plexing and deſtructive pra<g ref="char:EOLhyphen"/>ctice. And as ſuch would more carefully be avoided by you were it not ſo difficult to con<g ref="char:EOLhyphen"/>vince you of your guilt. For ſhould I propoſe this Queſti<g ref="char:EOLunhyphen"/>on to every <hi>Individual</hi> in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole Pariſh; Are you guil<g ref="char:EOLunhyphen"/>ty of this Sin of Covetouſ<g ref="char:EOLunhyphen"/>neſs? I ſhould doubtleſs fine a great number of <hi>frugal<g ref="char:punc">▪</g> careful, provident</hi> Perſons; b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not a <hi>Covetous man</hi> among<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you all. And therefore, fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your conviction, I ſhall brie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ly
+<pb n="21" facs="tcp:134549:15"/> ſhew you what <hi>Covetouſneſs</hi> is, and when a man may be truly ſaid to be guilty of that Sin.</p>
+               <p>
+                  <hi>COVETO<g ref="char:V">Ʋ</g>SNESS is an ir<g ref="char:EOLhyphen"/>regular unlawful Deſire, of get<g ref="char:EOLhyphen"/>ing and keeping wealth.</hi>
+               </p>
+               <p>Now your Deſires are then <hi>irregular</hi> and <hi>unlawful,</hi> when they do tranſgreſs thoſe bounds and limits, which Almighty God by his Laws hath pre<g ref="char:EOLhyphen"/>ſcribed to them.</p>
+               <p>For God, who is a God of Order, hath eſtabliſhed this method. <hi>Seek ye firſt the King<g ref="char:EOLhyphen"/>dom of God, and his Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> Mat. 6. 33. <hi>Whether ye eat or drink, or whatſoever ye do, do all to the Glory of God,</hi> 1 Cor. 10. 31.</p>
+               <pb n="22" facs="tcp:134549:16"/>
+               <p>Intimating; That the chief end and deſign, the great buſineſs for which you are ſent into the Word; it is to <hi>Glorify God, by ſaving of your Souls.</hi> And therefore when God is diſhonoured, and the welfare of your Souls is neglected; then are your de<g ref="char:EOLhyphen"/>ſires or your actions irregu<g ref="char:EOLhyphen"/>lar and unlawful.</p>
+               <p>
+                  <hi>Particularly;</hi> If theſe De<g ref="char:EOLhyphen"/>ſires ſhall once prompt you, to cozen and cheat and de<g ref="char:EOLhyphen"/>fraud your Neighbour in any inſtance whatſoever: As, <hi>By telling Lyes to help out a good Bargain; By falſe Weights and Meaſures; By not paying Ser<g ref="char:EOLhyphen"/>vants and Workmens wages; By not diſcharging juſt Debts when it is in your power; but
+<pb n="23" facs="tcp:134549:16"/> keeping other mens Money, to their prejudice, that you your ſelves may trade with it;</hi> In theſe and many other Inſtan<g ref="char:EOLhyphen"/>ces you are apparently Co<g ref="char:EOLhyphen"/>vetous.</p>
+               <p>Nay further; Though you can truely affirm, as you often boaſt, that <hi>you never wronged any man living:</hi> But are moſt juſt and punctual in all your dealings; and were <hi>ne<g ref="char:EOLhyphen"/>ver worſe then your word.</hi> Yet if your deſire of getting an E<g ref="char:EOLhyphen"/>ſtate ſhall be ſo eager, that you ſhall neglect the Duties of Religion! If, for Inſtance, <hi>you cannot ſtay to ſay your Pra<g ref="char:EOLhyphen"/>yers in a Morning for fear of neg<g ref="char:EOLhyphen"/>lecting your work!</hi> And if when you come into Gods Houſe, there to attend his immediate
+<pb n="24" facs="tcp:134549:17"/> Service, you are then think<g ref="char:EOLhyphen"/>ing of your worldly Con<g ref="char:EOLhyphen"/>cerns; how you may <hi>turn your Penny,</hi> and contrive your Affairs to the beſt ad<g ref="char:EOLhyphen"/>vantage! If the <hi>Feſtivals</hi> and <hi>Faſts</hi> of the Church (thoſe Market-days for your Souls) ſhall be a burthen to you; ſaying with thoſe in the Prophet; <hi>When will the New-Moon be gone, that we may ſell Corn? and the Sabbath that we may ſet forth Wheat?</hi> Amos 8. 5.</p>
+               <p>If the care and concern for your Bodies, which ſhould be ſubordinate to that of your Souls, ſhall be thus prefer'd before it; your deſires are then irregular and unlawful, and you are evidently guil<g ref="char:EOLhyphen"/>ty
+<pb n="25" facs="tcp:134549:17"/> of this Sin of <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs.</hi>
+               </p>
+               <p>Nay yet further; Though your Eſtates may be very ho<g ref="char:EOLhyphen"/>neſtly gotten; yet if you do not <hi>uſe</hi> them as you ought, nor employ them to thoſe ends for which they were given, you are ſtill Cove<g ref="char:EOLhyphen"/>tous.</p>
+               <p>Now the only end of wealth, is to ſupply our oc<g ref="char:EOLhyphen"/>caſions, and to enable us to do good both to our ſelves and others.</p>
+               <p>He therefore that lives meanly and below his Eſtate, when there is no reaſon ſo to do. That ſhall pinch and pine his own body, by de<g ref="char:EOLhyphen"/>nying
+<pb n="26" facs="tcp:134549:18"/> it thoſe neceſſary re<g ref="char:EOLhyphen"/>freſhments it wants. That ſhall neglect the Education and the Marriage of his Children; as reſolving to part with his money and his life together. <hi>Finally,</hi> He who ſhall tranſgreſs that moſt ne<g ref="char:EOLhyphen"/>ceſſary Duty, of being chari<g ref="char:EOLhyphen"/>table to the Poor, and relie<g ref="char:EOLhyphen"/>ving thoſe that are in Diſtreſs; <hi>his Gold and his Silver,</hi> for want of uſe, <hi>is cankered, and the ruſt of them ſhall be a witneſs againſt him.</hi> James 5. 3.</p>
+               <p>
+                  <hi>Let your Converſation be with<g ref="char:EOLhyphen"/>out Covetouſneſs; and be content with ſuch things as ye have: for he hath ſaid, I will nev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> leave thee nor forſake thee.</hi> Heb. 13. 5.</p>
+               <pb n="27" facs="tcp:134549:18"/>
+               <p>
+                  <hi>Be careful for nothing: but in every thing by prayer and ſup<g ref="char:EOLhyphen"/>plication with thanksgiving, let your requeſts be made known unto God. and the peace of God which paſſeth all underſtanding, ſhall keep your hearts and minds through Chriſt Jeſus.</hi> Phil. 4. 6, 7.</p>
+               <p>Being return'd home in the Evening, and your work being finiſhed; before you go to Bed, let the Maſter of the Family a<g ref="char:EOLhyphen"/>gain call his Houſhold together. And I wiſh I could perſwade you, every night to read ſome portion of <hi>Holy Scripture.</hi> But leſt that ſhould ſeem too great a burden upon the Week-day, I ſhall reſerve it as a proper Task for the <hi>Lords-day</hi> and the Feſtivals of the Church (for the due ob<g ref="char:EOLhyphen"/>ſervation of which I do purpoſe, God willing, to give you parti<g ref="char:EOLhyphen"/>cular Directions in another Pa<g ref="char:EOLhyphen"/>per.) However though you may
+<pb n="28" facs="tcp:134549:19"/> want time, or are too much wea<g ref="char:EOLhyphen"/>ried to read in your <hi>Bible,</hi> yet pray do not omit to commend your ſelves to Gods Protection, in this or the like manner.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Evening Prayer for a Family.</head>
+                           <p>ALmighty and Everlaſt<g ref="char:EOLhyphen"/>ing God; and in Jeſus Chriſt our moſt Merciful and Gracious Father. We thy poor unworthy Creatures, do moſt humbly preſent our ſelves before thee: to confeſs our ſins, and to beg thy pardon. To acknowledge thy mercies, and to bewail our abuſes of them.</p>
+                           <p>We have tranſgreſſed our Duty to Thee, our Neigh<g ref="char:EOLhyphen"/>bour, and our ſelves: and
+<pb n="29" facs="tcp:134549:19"/> that both in Thought, in Word and in Deed: by doing thoſe Things which thou haſt expreſly forbidden; and by neglecting thoſe Duties thou haſt commanded us. And this not only through Ignorance and Frailty, but ſometimes knowingly and willfully; with repeated vows and reſo<g ref="char:EOLhyphen"/>lutions to the contrary. Nay, O Lord, we have deſpiſed that Goodneſs of thine which ſhould lead us to Repentance: hardning our hearts againſt all thoſe means, which thou haſt uſed for our amend<g ref="char:EOLhyphen"/>ment.</p>
+                           <p>And now, Lord, what can we expect having done theſe Things, but to be utterly abhorred and forſaken by
+<pb n="30" facs="tcp:134549:20"/> thee? that is indeed the due reward of our Sins. But, O Lord, there is mercy with thee that thou mayſt be feared.</p>
+                           <p>O fit us for that mercy, by giving us a deep and hearty Repentance; a ſincere Contrition; a true ſorrow for, and perfect hatred of, all our ſins, with a firm reſolution to forſake them. And then, ac<g ref="char:EOLhyphen"/>cording to thy Goodneſs, let thine anger and thy wrath be turned away from us. Look upon us in thy Son, our Bleſſed Saviour; and for the Merits of his Sufferings pardon all our Sins.</p>
+                           <p>And ſince we are not able of our ſelves ſo much as to
+<pb n="31" facs="tcp:134549:20"/> think one good Thought; we beſeech thee to work in us both to will and to do ac<g ref="char:EOLhyphen"/>cording to thy good pleaſure. And by the Grace of thy Holy Spirit, do thou ſo re<g ref="char:EOLhyphen"/>new and purify our hearts, that we may become new Creatures; utterly forſaking every evil way, and living in conſtant, ſincere, univerſal Obedience to thee all the reſt of our Days.</p>
+                           <p>Make us humble and mo<g ref="char:EOLhyphen"/>deſt: patient and ſubmiſſive: chaſt and temperate: juſt and righteous: kind and charitable: diligent in our Callings; and zealous for thy Glory. That ſo having behaved our ſelves as good and faithful Servants, we may by thy mercy at the laſt
+<pb n="32" facs="tcp:134549:21"/> be received into the joy of our Lord.</p>
+                           <p>And we deſire, thou know<g ref="char:EOLhyphen"/>eſt, the good all Mankind as well as our own. Particu<g ref="char:EOLhyphen"/>larly we implore thy Mer<g ref="char:EOLhyphen"/>cies towards theſe Kingdoms wherein we live. Remember not Lord our Offences, nor the Offences of our Fore<g ref="char:EOLhyphen"/>fathers; but ſpare us good Lord, and have patience with us, if perhaps we may bring forth better fruit, be<g ref="char:EOLhyphen"/>coming thy holy Goſpel, and all the care thou haſt taken about us. Lord ſave and defend the King, and eſta<g ref="char:EOLhyphen"/>bliſh his Throne in Righte<g ref="char:EOLhyphen"/>ouſneſs: that we may ſee ma<g ref="char:EOLhyphen"/>ny happy days under his Go<g ref="char:EOLhyphen"/>vernment. Hear the daily
+<pb n="33" facs="tcp:134549:21"/> Prayers of thy Church for him; That he may always incline to thy will, and walk in thy way: and ſtudy to preſerve thy People com<g ref="char:EOLhyphen"/>mitted to his charge, in Wealth, Peace and Godlineſs. And grant, that we and all his Subjects (duly conſidering whoſe Authory he hath) may faithfully ſerve, honour, and humbly obey him, in thee, and for thee, according to thy bleſſed word and Ordi<g ref="char:EOLhyphen"/>nance.</p>
+                           <p>Bleſs him and us in all his Relations; in his Council; in all the Nobility, Clergy, Gentry and Commonalty. That every one of them may uprightly and zealouſly do their Duty; to the main<g ref="char:EOLhyphen"/>tainance
+<pb n="34" facs="tcp:134549:22"/> of thy true Religion, and the peace and welfare of theſe Nations.</p>
+                           <p>Comfort all thoſe who are any ways afflicted or diſtreſ<g ref="char:EOLhyphen"/>ſed, in Mind, Body, or Eſtate, eſpecially thoſe who ſuffer for the Teſtimony of a good Conſcience; give them pati<g ref="char:EOLhyphen"/>ence under their Sufferings; and an happy iſſue out of all their Afflictions.</p>
+                           <p>Let thy Bleſſings reſt upon this Family, and all that are near and dear to us. Grant both to them and us whatſoe<g ref="char:EOLhyphen"/>ver thou ſeeſt neceſſary, either for our Bodies or our Souls.</p>
+                           <p>And we deſire to return our thankful acknowledg<g ref="char:EOLhyphen"/>ments, for all thy mercies
+<pb n="35" facs="tcp:134549:22"/> both Spiritual and Temporal. Particularly; for thy Preſer<g ref="char:EOLhyphen"/>vation of us all this Day paſt. Let the ſame good Providence watch over us this Night. Keep us by thy Grace from all works of Darkneſs; and defend us by thy Power from all Dangers. From Fire and Robbery, and all other ſad Accidents. Grant us mode<g ref="char:EOLhyphen"/>rate refreſhing ſleep, ſuch as may fit us for thy Service the Day following. That after the few Days and Nights we have to paſs in this world, we may come to thy eternal reſt together with Chriſt Jeſus. In whoſe bleſſed Name and Words we further Pray, ſaying</p>
+                           <closer>Our Father, &amp;c.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>After Prayers the whole Family doth betake themſelves to their
+<pb n="36" facs="tcp:134549:23"/> reſt. And being come into your Chamber, ſit down a little, and conſider how you have ſpent the Day paſt. Glance over in your Thoughts what you have ſaid and done, Obſerve likewiſe what particular Bleſſing and Delive<g ref="char:EOLhyphen"/>rance you have received. If your Behaviour hath been regular; Bleſs God for it. If ſinful and extra<g ref="char:EOLhyphen"/>vagant in any inſtance, do not dare to go into your Bed, till you have beg'd his Pardon. Many as healthful as your ſelf have been found dead the next Morning. Kneel down therefore, and di<g ref="char:EOLhyphen"/>ſtinctly ſay this, or the like Prayer.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Evening Prayer for a private Perſon.</head>
+                           <p>I Bleſs and praiſe thy holy Name, moſt Gracious God, for all thy mercies beſtowed upon me, from the time of my
+<pb n="37" facs="tcp:134549:23"/> Birth to this preſent moment. I thank thee for the Preſer<g ref="char:EOLhyphen"/>vation of the Day paſt. Bleſ<g ref="char:EOLhyphen"/>ſed be thy Name for my con<g ref="char:EOLhyphen"/>tinued health, and food and raiment. Bleſſed be thy Name that my Bones are not bro<g ref="char:EOLhyphen"/>ken: that I am not now groaning under the ſoreſt pains, but that I live at eaſe, and dwell in ſafety Night and Day.</p>
+                           <p>O Pardon and forgive me my manifold Sins [parti<g ref="char:EOLhyphen"/>ticularly—[<hi>There mention the ſins of the day paſt.</hi>] I am truly ſorry that I have thus offended thee; and do fully purpoſe to do ſo no more.</p>
+                           <p>Aſſiſt me, by thy Grace and holy Spirit, to make good
+<pb n="38" facs="tcp:134549:24"/> theſe pious Reſolutions: and with an honeſt ſincerity to continue in my Duty, both towards thee my God, and towards my Neighbour.</p>
+                           <p>I beg thy Bleſſing for [<hi>my Wife and Children, my Husband and Children, Father and Mother, Brethren and Siſters, Maſter Miſtreſs</hi>—You muſt name theſe Relations, according as you ſtand related.] O that all my friends may be thine. And if I have any Enemies; Fa<g ref="char:EOLhyphen"/>ther forgive them.</p>
+                           <p>Relieve and comfort all thoſe that are in any Diſtreſs. Make the Earth to bring forth its increaſe in due ſea<g ref="char:EOLhyphen"/>ſon, and let all honeſt and induſtrious People be ſucceed<g ref="char:EOLhyphen"/>ed in their Labours.</p>
+                           <pb n="39" facs="tcp:134549:24"/>
+                           <p>Take me into thy care and protection this Night. And when I ſhall awaken again in the Morning; help me to employ all my renew<g ref="char:EOLhyphen"/>ed ſtrength to thy honour and Glory; through Jeſus Chriſt: in whoſe Bleſſed name and words I commend my ſelf to thy infinite mer<g ref="char:EOLhyphen"/>cies, ſaying,</p>
+                           <closer>
+                              <hi>Our Father,</hi> &amp;c.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This Prayer may be likewiſe ſaid in the Family; when there is not time, by reaſon of ſome extraordinary occaſions, for the other. But then you muſt change the number: ſaying all along (<hi>we</hi>) for (<hi>I</hi>) and (<hi>us</hi>) for (<hi>me</hi>) and (<hi>our</hi>) for (<hi>my</hi>) &amp;c.</p>
+               <p>At your going to Bed, ſay,</p>
+               <p>
+                  <hi>I will lay me down in peace,
+<pb n="40" facs="tcp:134549:25"/> and take my reſt, for it is thou, Lord, only that makeſt me dwell in ſafety,</hi> Pſal. 4. 9.</p>
+               <p>Having compoſed your ſelf to ſleep, cloſe your Eyes with the laſt words of your Bleſſed Savi<g ref="char:EOLhyphen"/>vour, ſaying.</p>
+               <p>
+                  <hi>Father into thy hands I com<g ref="char:EOLhyphen"/>mend my Spirit.</hi> Luk. 23. 46.</p>
+               <p>I have given you no Directi<g ref="char:EOLhyphen"/>ons about<g ref="char:punc">▪</g> Children; ſince your own prudence will beſt ſuggeſt ſuch Inſtructions, as are moſt ſuit<g ref="char:EOLhyphen"/>able to their different Capacities<g ref="char:punc">▪</g> But let me beg of you, both as to <hi>Children</hi> and <hi>Servants,</hi> to take up <hi>Joſhua's</hi> reſolution; <hi>As for me and my Houſe, we will ſerve the Lord<g ref="char:punc">▪</g>
+                  </hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:134549:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
